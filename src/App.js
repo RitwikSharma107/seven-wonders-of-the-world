@@ -29,9 +29,9 @@ class App extends React.Component {
         else{
             return(
                 <div className="tc">
-                    <h1 className="f-5 shadow-5-l">Seven wonders of the World</h1>
-                    <Search searchChange = {this.onSearchChange}/>
-                    <div>
+                    <h1 className="tc f-5 shadow-5-l">Seven wonders of the World</h1>
+                    <Search searchChange = {this.onSearchChange} className="tc"/>
+                    <div className="tc">
                         <MonuList monuments={filtered}/>
                     </div>
                 </div>
