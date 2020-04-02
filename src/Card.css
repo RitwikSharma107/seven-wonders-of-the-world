@@ -1,0 +1,27 @@
+@import url("https://fonts.googleapis.com/css2?family=Bilbo+Swash+Caps&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Lato:ital@1&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Merriweather:ital,wght@1,700&display=swap");
+
+img{
+   border-radius: 50px;
+   transition: 0.5s; 
+}
+img:hover{
+    transform: scale(1.02);
+}
+h2{
+    color: #432809;
+    font-size: 60px;
+    font-family: 'Bilbo Swash Caps', cursive;
+}
+h3{
+    color: #75520a;
+    font-size: 30px;
+    font-family: 'Lato', sans-serif;
+}
+p{
+    width:500px;
+    color:#8d620c;
+    font-size: 20px;
+    font-family: 'Merriweather', serif;
+}
