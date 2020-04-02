@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/seven-wonders-of-the-world/static/css/main.c88e3457.chunk.css",
+    "main.js": "/seven-wonders-of-the-world/static/js/main.74b2b3c9.chunk.js",
+    "main.js.map": "/seven-wonders-of-the-world/static/js/main.74b2b3c9.chunk.js.map",
+    "runtime-main.js": "/seven-wonders-of-the-world/static/js/runtime-main.c1bc6060.js",
+    "runtime-main.js.map": "/seven-wonders-of-the-world/static/js/runtime-main.c1bc6060.js.map",
+    "static/css/2.3b6f1bda.chunk.css": "/seven-wonders-of-the-world/static/css/2.3b6f1bda.chunk.css",
+    "static/js/2.556fd944.chunk.js": "/seven-wonders-of-the-world/static/js/2.556fd944.chunk.js",
+    "static/js/2.556fd944.chunk.js.map": "/seven-wonders-of-the-world/static/js/2.556fd944.chunk.js.map",
+    "index.html": "/seven-wonders-of-the-world/index.html",
+    "precache-manifest.5bf439147703f30314f912ba50db9e22.js": "/seven-wonders-of-the-world/precache-manifest.5bf439147703f30314f912ba50db9e22.js",
+    "service-worker.js": "/seven-wonders-of-the-world/service-worker.js",
+    "static/css/2.3b6f1bda.chunk.css.map": "/seven-wonders-of-the-world/static/css/2.3b6f1bda.chunk.css.map",
+    "static/css/main.c88e3457.chunk.css.map": "/seven-wonders-of-the-world/static/css/main.c88e3457.chunk.css.map",
+    "static/js/2.556fd944.chunk.js.LICENSE.txt": "/seven-wonders-of-the-world/static/js/2.556fd944.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c1bc6060.js",
+    "static/css/2.3b6f1bda.chunk.css",
+    "static/js/2.556fd944.chunk.js",
+    "static/css/main.c88e3457.chunk.css",
+    "static/js/main.74b2b3c9.chunk.js"
+  ]
+}
